@@ -9,7 +9,7 @@ namespace Mango.Services.ProductAPI.Repository
     //Note: IProductRepository - show all fixes then implement interface
     public class ProductRepository : IProductRepository
     {
-        //NOTE: We have to target a database using dependency injection
+        //NOTE: We have to toggle a database using dependency injection
         private readonly ApplicationDbContext _db;
 
         //NOTE: We need Automapper to get the object from DTO

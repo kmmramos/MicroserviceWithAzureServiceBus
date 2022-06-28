@@ -48,7 +48,7 @@ namespace Mango.Web.Services
             {
                 ApiType = SD.ApiType.GET,
                 //NOTE: There are no parameters expected for GetAllProductsAsync.
-                Url = SD.ProductAPIBase + "/api/products/",
+                Url = SD.ProductAPIBase + "/api/products",
                 AccessToken = ""
             });
         }

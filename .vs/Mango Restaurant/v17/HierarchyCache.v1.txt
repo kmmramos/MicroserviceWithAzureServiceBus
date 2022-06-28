@@ -1,0 +1,337 @@
+﻿++Solution 'Mango Restaurant' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:Mango Restaurant.sln
+++Services
+i:{00000000-0000-0000-0000-000000000000}:Services
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\services\
+++Mango.Services.ProductAPI
+i:{8e57c74d-00ca-4c73-b1b0-ea8cc024d555}:Mango.Services.ProductAPI
+++Connected Services 
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:>663
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:>662
+++Dependencies
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:>661
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:>660
+++Analyzers
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:analyzers
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:analyzers
+++Frameworks
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:frameworks
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:frameworks
+++Packages
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:packages
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:packages
+++Projects
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:projects
+++Mango.Web
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\mango.web.csproj
+i:{4f85a18f-c6aa-4eaa-9755-a302b7368a92}:Mango.Web
+++Properties
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\properties\
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\properties\
+++Controllers
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\controllers\
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\controllers\
+++DbContexts
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\dbcontexts\
+++Migrations
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\migrations\
+++20220227143800_AddProductModelToDb.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\migrations\20220227143800_addproductmodeltodb.cs
+++20220303080654_SeedProducts.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\migrations\20220303080654_seedproducts.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\migrations\applicationdbcontextmodelsnapshot.cs
+++Models
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\models\
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\models\
+++Repository
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\repository\
+++appsettings.json
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\appsettings.json
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\appsettings.json
+++MappingConfig.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\mappingconfig.cs
+++Program.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\program.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\program.cs
+++No service dependencies discovered
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:>665
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:>664
+++Microsoft.AspNetCore.Analyzers
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.0-preview.1.22076.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0-preview.1.22076.8\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\microsoft.aspnetcore.app
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\microsoft.netcore.app
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\microsoft.netcore.app
+++AutoMapper (11.0.1)
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:>691
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:>688
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.2)
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:>692
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.0-preview.1.22076.6)
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:>687
+++Microsoft.EntityFrameworkCore.Tools (7.0.0-preview.1.22076.6)
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:>693
+++Swashbuckle.AspNetCore (6.2.3)
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:>689
+++Swashbuckle.AspNetCore.Annotations (6.2.3)
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:>690
+++Swashbuckle.AspNetCore.SwaggerUI (6.2.3)
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:>694
+++launchSettings.json
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\properties\launchsettings.json
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\properties\launchsettings.json
+++ProductAPIController.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\controllers\productapicontroller.cs
+++ApplicationDbContext.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\dbcontexts\applicationdbcontext.cs
+++20220227143800_AddProductModelToDb.Designer.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\migrations\20220227143800_addproductmodeltodb.designer.cs
+++20220303080654_SeedProducts.Designer.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\migrations\20220303080654_seedproducts.designer.cs
+++Dto
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\models\dto\
+++Product.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\models\product.cs
+++IProductRepository.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\repository\iproductrepository.cs
+++ProductRepository.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\repository\productrepository.cs
+++appsettings.Development.json
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\appsettings.development.json
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\appsettings.development.json
+++ProductDto.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\models\dto\productdto.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\models\productdto.cs
+++ResponseDto.cs
+i:{596897c2-c8d6-4da5-9729-5f792b3519b0}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.services.productapi\models\dto\responsedto.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\models\responsedto.cs
+++FrontEnd
+i:{00000000-0000-0000-0000-000000000000}:FrontEnd
+++wwwroot
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\
+++Views
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\views\
+++Home
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\views\home\
+++Index.cshtml
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\views\home\index.cshtml
+++Privacy.cshtml
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\views\home\privacy.cshtml
+++Shared
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\views\shared\
+++_Layout.cshtml
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\views\_viewstart.cshtml
+++SD.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\sd.cs
+++css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\css\
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\
+++images
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\images\
+++js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\js\
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\
+++favicon.ico
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\favicon.ico
+++HomeController.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\controllers\homecontroller.cs
+++ProductController.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\controllers\productcontroller.cs
+++ApiRequest.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\models\apirequest.cs
+++ErrorViewModel.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\models\errorviewmodel.cs
+++Iservices
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\services\iservices\
+++BaseService.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\services\baseservice.cs
+++ProductService.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\services\productservice.cs
+++_Layout.cshtml.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\views\shared\_layout.cshtml.css
+++Newtonsoft.Json (13.0.1)
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:>676
+++site.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\css\site.css
+++mango.png
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\images\mango.png
+++order.PNG
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\images\order.png
+++site.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\js\site.js
+++bootstrap
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\
+++jquery
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery\
+++jquery-validation
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery-validation-unobtrusive\
+++IBaseService.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\services\iservices\ibaseservice.cs
+++IProductService.cs
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\services\iservices\iproductservice.cs
+++dist
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery\dist\
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery\license.txt
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{e635694c-eb64-4cef-a7e5-616a02ff16df}:c:\users\kirstinmegga.ramos\source\repos\mango restaurant\mango restaurant\mango.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map

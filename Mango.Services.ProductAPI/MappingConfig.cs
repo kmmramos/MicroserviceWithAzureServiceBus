@@ -8,7 +8,8 @@ namespace Mango.Services.ProductAPI
     {
         //NOTE: A method that will return the mapping configuration of autoMapper
         //Public Static = so that we can call it in our startup class file
-        public static MapperConfiguration RegisterMaps() {
+        public static MapperConfiguration RegisterMaps() 
+        {
             var mappingConfig = new MapperConfiguration(config =>
             {
                 //NOTE: We can also use .ReverseMap(); to reduce two lines into one config.CreateMap
